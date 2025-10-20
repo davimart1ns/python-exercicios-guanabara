@@ -44,13 +44,13 @@ python-exercicios-guanabara/
 │   └── ...
 │
 ├── mundo_2/
+│   ├── ex035.py
 │   ├── ex036.py
-│   ├── ex037.py
 │   └── ...
 │
 ├── mundo_3/
+│   ├── ex070.py
 │   ├── ex071.py
-│   ├── ex072.py
 │   └── ...
 │
 └── README.md
