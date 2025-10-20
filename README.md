@@ -4,6 +4,8 @@ Este repositório reúne **114 exercícios resolvidos** durante o curso de **Pyt
 
 O objetivo é registrar meu aprendizado e demonstrar, na prática, o progresso nos fundamentos da linguagem e na lógica de programação.
 
+---
+
 ## 📊 Status do Projeto
 
 ✅ **Concluído** - Todos os 114 exercícios finalizados (Mundo 1, 2 e 3).
