@@ -54,3 +54,14 @@ python-exercicios-guanabara/
 │   └── ...
 │
 └── README.md
+```
+---
+
+## 👨‍💻 Autor
+
+Davi Martins
+🎓 Técnico em Automação Industrial
+📘 Graduando em Ciência e Tecnologia (BICT)
+
+🔗 [GitHub](https://github.com/davimart1ns)
+💼 [LinkedIn](https://www.linkedin.com/in/davi-martins-84ba3227b)
